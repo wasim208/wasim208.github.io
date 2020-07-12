@@ -1,0 +1,72 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap', 'https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100&display=swap');
+
+#cover{
+}
+
+.fa {
+  padding: 30px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+#pp{
+	width: 200px;
+	height: 200px	
+}
+
+.about-disc{
+	font-family: 'Noto Sans JP';
+	font-size: 1.2rem;
+}
+
+.about{
+	background: #d1ebdc;
+}
+
+.interest{
+	background: #e6fcf9;
+}
+
+.projects{
+	background: #c9ccd1;
+}
+
+.blog{
+	background: #e1e5eb;
+}
+
+.book-cover{
+	width: 200px
+}
+
+.books{
+	/*#f5dcda*/
+	background-color: #36ebd9;
+}
+
+.connect{
+	background : #2f4f4f;
+}
+
+.code-styl{
+	font-family: 'Grenze Gotisch', cursive;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+.blog-soon{
+	font-family: 'Grenze Gotisch', cursive;
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+</style>
