@@ -69,4 +69,12 @@
 	font-weight: 500;
 }
 
+span.anchor {
+    margin-top: -54px; /* height of nav, in this case 54px */
+    display: block;
+    height: 54px; /* height of nav, in this case 54px */
+    visibility: hidden;
+    position: relative;
+}
+
 </style>
